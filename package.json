@@ -19,7 +19,7 @@
         "@bochilteam/scraper-tiktok": "^5.0.0",
         "@bochilteam/scraper-facebook": "^5.0.0",
         "@vitalets/google-translate-api": "^9.2.1",
-        "@whiskeysockets/baileys": "^7.0.0-rc.13",
+        "@whiskeysockets/baileys": "^7.0.0-rc.14",
         "axios": "^1.7.2",
         "express": "^4.19.2",
         "megajs": "^1.2.0",
