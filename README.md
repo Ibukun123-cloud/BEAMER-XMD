@@ -48,10 +48,10 @@
 
 <div align="center">
   <h3>🔑 SESSION GENERATOR</h3>
-  <a href="https://sesssion.onrender.com/">
+  <a href="https://peaky-blinder-session.zone.id">
     <img src="https://img.shields.io/badge/PAIR%20CODE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Pair Code"/>
   </a><br/><br/>
-  <a href="https://peaky-blinders-bot-85f8a16a45bc.herokuapp.com/">
+  <a href="https://sesssion.onrender.com/">
     <img src="https://img.shields.io/badge/BASE64%20SESSION-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Base64 Session"/>
   </a>
 </div>
